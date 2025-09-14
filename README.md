@@ -9,5 +9,6 @@ I really enjoy this article because, although I can write some code, most of it 
 
  # Reflections
 
- # Comments by Aden Juda
- I agree with Amy that this article uses some technical terms I haven't learned yet either, but I also agree with the overall premise.  The idea of code maintenance is relatively foreign to me as well, as I have had few long term projects in my life.  However, I can understand the importance to companies since they will have to reuse and change existing code freuqnetly, so if the code is too long, it can cause monetary and scheduling issues.
+## _Aden Juda_
+
+I agree with Amy that this article uses some technical terms I haven't learned yet either, but I also agree with the overall premise.  The idea of code maintenance is relatively foreign to me as well, as I have had few long term projects in my life.  However, I can understand the importance to companies since they will have to reuse and change existing code freuqnetly, so if the code is too long, it can cause monetary and scheduling issues.
