@@ -5,4 +5,6 @@ One of my favorite paragraph is:
 
 > The less specific the code is to your application or project, the easier they are to re-use and the less likely to change or be deleted. Library code like logging, or third party APIs, file handles, or processes. Other good examples of code you’re not going to delete are lists, hash tables, and other collections. Not because they often have very simple interfaces, but because they don’t grow in scope over time.
 
+I really enjoy this article because, although I can write some code, most of it is for class assignments and final projects, which makes it often single-use. I never thought of maintaining them, and now I find them long, trashy, and annoying when I try to embed them into my websites. Although I can't fully digest this article as it has many technical terms I haven't learnt yet, this really combines many problems and confusion I have with my code!
+
  # Reflections
