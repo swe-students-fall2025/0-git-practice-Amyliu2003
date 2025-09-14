@@ -1,5 +1,5 @@
 # Git Practice
-I really enjoy this article :x [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to?source=post_page-----56b0d9de2c43---------------------------------------)
+I really enjoy this article : [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to?source=post_page-----56b0d9de2c43---------------------------------------)
 
 One of my favorite paragraph is:
 
