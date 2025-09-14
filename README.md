@@ -8,3 +8,6 @@ One of my favorite paragraph is:
 I really enjoy this article because, although I can write some code, most of it is for class assignments and final projects, which makes it often single-use. I never thought of maintaining them, and now I find them long, trashy, and annoying when I try to embed them into my websites. Although I can't fully digest this article as it has many technical terms I haven't learnt yet, this really combines many problems and confusion I have with my code!
 
  # Reflections
+
+ # Comments by Aden Juda
+ I agree with Amy that this article uses some technical terms I haven't learned yet either, but I also agree with the overall premise.  The idea of code maintenance is relatively foreign to me as well, as I have had few long term projects in my life.  However, I can understand the importance to companies since they will have to reuse and change existing code freuqnetly, so if the code is too long, it can cause monetary and scheduling issues.
